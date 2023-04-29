@@ -58,13 +58,18 @@ endmodule */
 ## Output:
 ## RTL
 F1
-https://user-images.githubusercontent.com/119475943/233779704-2b0fbd70-e26f-4bc8-975c-66e843343575.png
+![output](https://user-images.githubusercontent.com/119475943/233779704-2b0fbd70-e26f-4bc8-975c-66e843343575.png)
+
+
 F2
-https://user-images.githubusercontent.com/119475943/233779710-12c90d88-5a09-4893-b7ed-89fbff78b1b4.png
+![output](https://user-images.githubusercontent.com/119475943/233779710-12c90d88-5a09-4893-b7ed-89fbff78b1b4.png)
+
 ## Timing Diagram:
 F1
-https://user-images.githubusercontent.com/119475943/233779663-0dab23b6-b7ce-4991-8577-4e474f732b40.png
+![output](https://user-images.githubusercontent.com/119475943/233779663-0dab23b6-b7ce-4991-8577-4e474f732b40.png)
+
+
 F2
-https://user-images.githubusercontent.com/119475943/233779676-e5e92010-a115-4c80-bc84-1f2fa4c80862.png
+![output](https://user-images.githubusercontent.com/119475943/233779676-e5e92010-a115-4c80-bc84-1f2fa4c80862.png)
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
