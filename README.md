@@ -62,6 +62,7 @@ F1
 
 
 F2
+
 ![output](https://user-images.githubusercontent.com/119475943/233779710-12c90d88-5a09-4893-b7ed-89fbff78b1b4.png)
 
 ## Timing Diagram:
